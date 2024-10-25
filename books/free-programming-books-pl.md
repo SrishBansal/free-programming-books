@@ -161,6 +161,7 @@
 * [Python dla wszystkich: Odkrywanie danych z Python 3](https://py4e.pl/book) - Charles Russell Severance (PDF, HTML, EPUB, MOBI)
 * [Python na luzie](https://jsystems.pl/static/andrzejklusiewicz/PNL.pdf) - Andrzej Klusiewicz (PDF)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
+* https://www.youtube.com/watch?v=BrN3Kdqn85Q - Pandas by Kacper Sieradziński
 
 
 #### Django
